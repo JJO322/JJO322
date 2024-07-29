@@ -7,3 +7,10 @@ Recientemente aprendí y experimente con | SQL | Power BI | Python | y ya era mu
 Deseo analizar datos, me he percatado que tego la vocacion de Analista de Datos y es donde mas me siento util,
 siento que tengo un talento para esto, que no deberia desperdiciar, y me encanta dar soporte y ayudar a empresas
 a generar un mejor impacto en el mundo y alcanzar sus objetivos mediantes el analisis de datos.
+## ¿Que tecnologias uso?
+Utilizo muchisimo Excel, pero ademas el bootcamp de Henry me ha ayudado a conseguir conocimientos en:
+- Python
+- Power BI
+- SQL Server
+- Tableau
+- Lenguaje "R"

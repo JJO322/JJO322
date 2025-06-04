@@ -1,5 +1,5 @@
-# Hello, my name is Juan Jose Ordóñez Murguía
-Or "Juan Jose Ordonez" for GitHub due to the language.
+# Hello, my name is John J. O
+
 ## Who Am I?
 I am an Industrial Engineer and Data Analyst with experience in data analysis focused on the commercial area.
 Recently, I have deepened my knowledge of tools like | SQL | Power BI | Python | along with extensive expertise in Excel, which I use to interpret historical data and generate insights on sales performance.
